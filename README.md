@@ -1,2 +1,2 @@
-# Housing-Price-Prediction
-Kaggle project using regression models to predict housing price.
+# Kaggle-Housing-Prices
+Kaggle project using regression models to predict housing prices.
